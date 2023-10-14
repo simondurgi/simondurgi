@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simondurgi
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...CODING,PYTHON,MACHINE LEARNING
 - 🌱 I’m currently learning ...DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...simonpeter839@gmail.com
