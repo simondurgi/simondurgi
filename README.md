@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simondurgi
+- 👋 Hi, I’m @simonpeter
 - 👀 I’m interested in ...CODING,PYTHON,MACHINE LEARNING
 - 🌱 I’m currently learning ...DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
